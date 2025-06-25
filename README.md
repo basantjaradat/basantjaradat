@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Basant Jaradat 👋  
+🌐 Computer Systems Engineer specializing in Front End Development | 💡 Passionate about UI/UX
 
-<!--
-**basantjaradat/basantjaradat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 Education
+🎓 Bachelor in Computer Systems Engineering
+Arab American University – Jenin, Palestine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Internship Experience
+- **Frontend Developer Intern** at *Aqlama Company*  
+  Developed and designed web-based dashboards and course platforms using React, TypeScript, and Next.js.
+
+---
+
+### 💻 Tech Stack & Skills
+
+#### Frontend Development:
+🌐 HTML
+🎨 CSS
+📜 JavaScript
+🟦 TypeScript
+⚛️ React.js
+🚀 Next.js
+🅱️ Bootstrap
+🖌️ Figma
+📱 Flutter
+
+#### Software & Systems:
+💻 C++, Java, Python
+🗄️ SQL / Oracle DB
+📡 Embedded systems (Arduino, ESP32, Raspberry Pi)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/basant-jaradat-44061b313)
+- 📧 [jaradatpasant@gmail.com](mailto:jaradatpasant@gmail.com)
+
