@@ -30,7 +30,9 @@ Arab American University – Jenin, Palestine
 
 #### Software & Systems:
 💻 C++, Java, Python
+
 🗄️ SQL / Oracle DB
+
 📡 Embedded systems (Arduino, ESP32, Raspberry Pi)
 
 ---
